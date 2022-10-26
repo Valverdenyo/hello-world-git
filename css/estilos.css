@@ -1,0 +1,13 @@
+BODY {
+    background-color: bisque;
+}
+
+
+.cancelar {
+   color:red;
+   background-color: black;
+}
+
+.enviar {
+    background-color: green;
+}
